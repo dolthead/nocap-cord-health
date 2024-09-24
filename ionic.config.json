@@ -1,7 +1,6 @@
 {
   "name": "nocap-cord-health",
   "integrations": {
-    "capacitor": {}
   },
   "type": "angular-standalone"
 }
